@@ -5,7 +5,7 @@ This is a simple notes app built with React and Django.
 1. Python 3.9
 2. Node.js
 3. React
-4. fork(test weebhook)
+4. fork(test weebhook again)
 
 ## Installation
 1. Clone the repository
